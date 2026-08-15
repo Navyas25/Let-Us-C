@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 //da=40% of basic salary,hra=20% of basic salary,calc gross salary
 //gross salary=basic salary+da+hra
 int main(){
