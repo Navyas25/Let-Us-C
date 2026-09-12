@@ -14,7 +14,7 @@ int main()
     scanf("%f",&h);
     printf("enter your weight in kg");
     scanf("%f",&w);
-    bmi=bmi(w,h);
+    result=bmi(w,h);
     if(bmi<15)
     printf("starvation");
     else if(bmi>15&&bmi<=17.5)
