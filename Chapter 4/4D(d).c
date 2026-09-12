@@ -28,6 +28,6 @@ int main()
     else if(bmi>25.9&&bmi<=30.9)
     printf("obese");
     else
-    printf("morbidly obese")
+    printf("morbidly obese");
     return 0;
 }
