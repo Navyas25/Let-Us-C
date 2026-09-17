@@ -3,7 +3,7 @@
 int main()
 {
     int n,d,octal=0,place=1;
-    printf("enter the number of numbers you want to enter:");
+    printf("enter the number :");
     scanf("%d",&n);
     while(n>0){
         d=n%8;
